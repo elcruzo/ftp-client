@@ -11,6 +11,11 @@ with FTP(host) as ftp:
     
     with open('myupload.txt', "rb") as f:
         ftp.storbinary('STOR' + "upload.txt", f)
+        
+    ftp.cwd('mydir')
+    
+    with open("myspecialfile.txt", "wb") as f:
+        ftp.retrbinary("RETR " + "otherfile.txt", f.write, 1024)
     
     # with open("test.txt", "wb") as f:
     #     ftp.retrbinary("RETR " + "mytest.txt", f.write, 1024)
