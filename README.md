@@ -30,10 +30,13 @@ To run this implementation, you need:
 
    ```bash
    git clone https://github.com/elcruzo/ftp-client.git
+   ```
+2. Navigate to the project directory:
+
+   ```bash
    cd ftp-client
    ```
-
-2. Ensure you have Python 3.x installed. You can check by running:
+3. Ensure you have Python 3.x installed. You can check by running:
 
    ```bash
    python3 --version
