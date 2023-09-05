@@ -21,7 +21,7 @@ This Python script simplifies the process of downloading and uploading files to 
 To run this implementation, you need:
 
 - Python 3.x
-- The `ftplib` module (usually included in Python standard library)
+- The `ftplib` library (usually included in Python standard library)
 - Acess to an FTP Server (you can create one for free on [Bplaced](https://www.bplaced.net/))
 
 ## Installation
