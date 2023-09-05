@@ -22,7 +22,7 @@ To run this implementation, you need:
 
 - Python 3.x
 - The `ftplib` module (usually included in Python standard library)
-- A running FTP Client (you can create one for free on [Bplaced](https://www.bplaced.net/))
+- Acess to an FTP Server (you can create one for free on [Bplaced](https://www.bplaced.net/))
 
 ## Installation
 
