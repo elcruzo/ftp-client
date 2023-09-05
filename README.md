@@ -4,15 +4,13 @@ Welcome to this repository containing a Python script for easy file transfer to 
 
 ## Table of Contents
 
-- [FTP File Transfer Python Script](#ftp-file-transfer-python-script)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Dependencies](#dependencies)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Example](#example)
-  - [Contributions](#contributions)
-  - [License](#license)
+- [Introduction](#introduction)
+- [Dependencies](#dependencies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Example](#example)
+- [Contributions](#contributions)
+- [License](#license)
 
 ## Introduction
 
